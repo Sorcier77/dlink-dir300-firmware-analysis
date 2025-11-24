@@ -1,0 +1,4 @@
+*.lzma
+kernel_fixed
+__pycache__/
+.DS_Store
